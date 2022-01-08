@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mrx/static/css/main.863eca60.css",
+    "main.js": "/mrx/static/js/main.2886cde7.js",
+    "static/js/992.cee29243.chunk.js": "/mrx/static/js/992.cee29243.chunk.js",
+    "index.html": "/mrx/index.html",
+    "main.863eca60.css.map": "/mrx/static/css/main.863eca60.css.map",
+    "main.2886cde7.js.map": "/mrx/static/js/main.2886cde7.js.map",
+    "992.cee29243.chunk.js.map": "/mrx/static/js/992.cee29243.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.863eca60.css",
+    "static/js/main.2886cde7.js"
+  ]
+}
